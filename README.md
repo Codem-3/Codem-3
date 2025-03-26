@@ -313,7 +313,7 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
     <td>Allowed</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Codem-3/Restaurant_APP">Pizza Slice</a></td>
+    <td><a href="https://github.com/Codem-3/Pizza-Slice">Pizza Slice</a></td>
     <td>UI Restaurant Menu And Orders App 🍕</td>
     <td><strong>Flutter</strong></td>
     <td>Allowed</td>
