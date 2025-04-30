@@ -16,27 +16,27 @@
 
 Welcome to a structured hub of projects, resources, and tools—designed to support clients and fellow developers in boosting productivity and learning. This is a **summary of my learning journey**, where I share everything I’ve experienced, learned, and explored across various fields. Here’s what you’ll find:
 
-## 🚀 Professional Project Code
+## Professional Project Code
 
 Explore high-quality, well-organized codebases from my professional projects. Client and company projects are now locked and hidden for privacy and security reasons. However, if you're a **student, learner, or client looking to review code**, I’ve left some of my older projects below for you to explore, review, or practice with. I update them with new knowledge whenever I have free time.
 
-## 🛠️ Developer Tools & Extensions
+## Developer Tools & Extensions
 
 Enhance your workflow with custom tools and extensions designed to streamline development and improve efficiency.
 
-## 🎓 Starter Projects for Beginners
+## Starter Projects for Beginners
 
 Jump-start your learning with structured starter projects that come with optimal file organization and pre-configured libraries. No setup hassle—just start coding!
 
-## 📖 Comprehensive Documentation
+## Comprehensive Documentation
 
 Each project includes a detailed README with file structures, tools used, live links, and step-by-step setup guides. Screenshots and demos ensure a smooth experience.
 
-## 📚 Course Summaries & Learning Resources
+## Course Summaries & Learning Resources
 
 Access concise summaries from courses I’ve taken, packed with valuable insights and key concepts to help students and self-learners accelerate their growth.
 
-## 🤝 Collaborative & Open-Source Projects
+## Collaborative & Open-Source Projects
 
 Certain projects are open for contributions, fostering a collaborative learning environment. Check the **Contribution** section for participation guidelines.
 
@@ -376,12 +376,17 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
   <tr>
     <td><strong>Repository</strong></td>
     <td><strong>Description</strong></td>
-    <td><strong>Type</strong></td>
+    <td><strong>Type/Live</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/ReactProjectStructure">React Project Structure</a></td>
     <td>Provides a professional and modular structure for the quick development of Vite [React] projects. It is designed to help developers get started quickly without spending much time setting up the basic project structure.</td>
     <td><strong>Project Structure</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Codem-3/Outliner">Outliner</a></td>
+    <td>Chrome extension for web developers to inspect and outline elements with customizable styles and detailed element information.</td>
+    <td><a href="https://chromewebstore.google.com/detail/outliner/fmlhdamodbalamandkndpadmadlmgkmg">Chrome Store</a></td>
   </tr>
 </table>
 
