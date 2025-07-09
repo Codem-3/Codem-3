@@ -2,7 +2,7 @@
    <img src="https://github.com/user-attachments/assets/4aa1ece5-e87b-4526-8113-33b5371ea14c" width="400px">
 </div> -->
 
-![linkedin banner1-01](https://github.com/user-attachments/assets/4c44d154-7e5f-4cb0-87a0-e113e926ff63)
+![banner-01](https://github.com/user-attachments/assets/7ae7e896-f2eb-4075-92f4-68157c2f1fa6)
 
 <!--
 <h1 align="center">
