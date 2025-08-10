@@ -534,10 +534,6 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
 
 ---
 
-<h1 align="center">
-     IT WAS NICE MEETING YOU! &nbsp <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" />
-</h1>
+<img width="8334" height="8334" alt="social media posts-03" src="https://github.com/user-attachments/assets/06b35853-fde1-431a-adf1-1458d70c902d" width="100%"/>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 <br><br>
