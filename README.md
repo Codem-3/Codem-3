@@ -519,23 +519,7 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
   </tr>
 </table>
 
-<!--
-<h1 align="center">
-GitHub Stats &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" />	
-</h1> 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codem-3&layout=compact&hide_border=true" alt="mohamed-abdelfattah" />
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Codem-3&show_icons=true&hide_border=true" alt="Codem-3" />
-</div>
-<div align="center" >
-<a href="https://github.com/Codem-3">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codem-3&hide_border=true&bg_color=0D1117" alt="mohamed-abdelfattah" />
-</a>
-</div>
-
-
+---
 
 <table align="center">
   <tr>
@@ -543,16 +527,13 @@ GitHub Stats &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-An
   <a href="https://github.com/Codem-3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Codem-3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Codem" /></a>
   </td>
   <td>
-  <a href="https://github.com/Codem-3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codem-3&layout=compact&theme=buefy&hide_border=true" /></a>
-  </td>
-  </tr>
-  <tr>
-  <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Codem-3&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Codem" /> </a>
+ <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Codem-3&hide_border=true&background=f6f8fa&currStreakLabel=000000&theme=buefy&date_format=j%20M%5B%20Y%5D" alt="Codem" /> </a>
   </td>
   </tr>
 </table>
--->
+
+---
+
 <h1 align="center">
      IT WAS NICE MEETING YOU! &nbsp <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" />
 </h1>
