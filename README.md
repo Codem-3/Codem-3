@@ -519,8 +519,8 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
   </tr>
 </table>
 
+<!--
 ---
-
 <table align="center">
   <tr>
   <td>
@@ -531,7 +531,7 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
   </td>
   </tr>
 </table>
-
+-->
 ---
 
 <img width="8334" height="8334" alt="social media posts-03" src="https://github.com/user-attachments/assets/06b35853-fde1-431a-adf1-1458d70c902d" width="100%"/>
