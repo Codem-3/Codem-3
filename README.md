@@ -61,54 +61,7 @@ Certain projects are open for contributions, fostering a collaborative learning 
 </a>
 </h3>
 
-
-</div> -->
-
-<!-- 
-<h1 align="center">
-Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" />
-</h1> 
-
-<div align="center">  
-
-[![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)
-
-</div>
-
-<div align="center">  
-
-[![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
-
-</div>
-
-<div align="center">  
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,pr&theme=light)](https://skillicons.dev)
-
-</div>
-
-<div align="center">  
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,docker&theme=light)](https://skillicons.dev)
-
-</div>
-
-<div align="center">  
-
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,reactivex,firebase,mysql,sqlite,gradle&theme=light)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-	  
- [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,redux,vite,mongodb,npm,vercel&theme=light)](https://skillicons.dev)
-   
-</div>
-
-<br/>
-
-<hr/>
-
+</div> 
 -->
 
 
@@ -123,160 +76,194 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 <table>
   <tr>
-    <td align='center'><img src="https://github.com/user-attachments/assets/47c448c1-59c6-458d-b597-c81c1b9f7621" alt="Description" width="45px"></td>
+    <td align='center'>
+        <img alt="codem" width="40px" src="https://github.com/user-attachments/assets/fd88fd45-8ef1-4ca3-9729-c2eddc6bd9d2" />
+	</td>
     <td colspan="4" align='center'><strong>Web Development Projects</strong></td>
   </tr>
   <tr>
     <td><strong>Repository</strong></td>
     <td><strong>Description</strong></td>
-    <td><strong>Language</strong></td>
     <td><strong>Live</strong></td>
     <td><strong>Contribution</strong></td>
   </tr>
-<!--   <tr>
-    <td><a href="https://github.com/Codem-3/Expat.cl">Expat.cl</a></td>
-    <td>Expat.cl is a comprehensive web platform that provides essential support services for expatriates moving to Chile. 💳</td>
-    <td><strong>HTML, TailwindCSS</strong></td>
-    <td><a href="https://Codem-3.github.io/Expat.cl/">Live</a></td>
-    <td>View Only</td>
-  </tr> -->
   <tr>
-    <td><a href="https://github.com/Codem-3/Luxe-Chronos">Luxe Chronos</a></td>
-    <td>Luxe Chronos is a redesigned and rebuilt landing page for a luxury watches shop, developed for a client aiming to provide a sleek and modern user experience for luxury watches. ⌚</td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>CAIO</td>
+    <td><strong>AI-Powered SaaS Platform to Run and Grow Your Business</strong></td>
+    <td><a href="https://caio-six.vercel.app/">Live</a></td>
+    <td>View Only</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Codem-3/EliteHomes">EliteHomes</a></td>
+    <td><strong>Real Estate Landing Page with React & TypeScript</strong></td>
+    <td><a href="https://elite-homes-mu.vercel.app/">Live</a></td>
+    <td>Allowed</td>
+  </tr>
+  <tr>
+    <td>Medigap</td>
+    <td>Medicare Lead Generation Page</td>
+    <td><a href="https://codem-3.github.io/Medigap/">Live</a></td>
+    <td>View Only</td>
+  </tr>
+  <tr>
+    <td>MediCare</td>
+    <td>Medicare Lead Generation Page</td>
+    <td><a href="https://codem-3.github.io/MediCare/">Live</a></td>
+    <td>View Only</td>
+  </tr>
+  <tr>
+    <td>HerniaCare</td>
+    <td>Next.js Medical Website with CMS Dashboard</td>
+    <td><a href="https://hernia-care.vercel.app/">Live</a></td>
+    <td>View Only</td>
+  </tr>  
+  <tr>
+    <td>CHAPPY</td>
+    <td>AI Video Assistant Landing Page for Insurance, Mortgage, and Debt Help</td>
+    <td><a href="https://chappy-v2.vercel.app/">Live</a></td>
+    <td>View Only</td>
+  </tr>
+  <tr>
+    <td>AllTalk</td>
+    <td>Telesales CRM Landing Page – Built for Speed & Conversion</td>
+    <td><a href="https://all-talk.vercel.app/">Live</a></td>
+    <td>View Only</td>
+  </tr>
+  <tr>
+    <td>Chappy</td>
+    <td>AI Video Assistant Landing Page | Real-Time Lead Generation</td>
+    <td><a href="https://chappy-tau.vercel.app/">Live</a></td>
+    <td>View Only</td>
+  </tr>  
+  <tr>
+    <td>Codem</td>
+    <td>Responsive Company Website – HTML, CSS, JavaScript</td>
+    <td><a href="https://codem-3.github.io/codem/">Live</a></td>
+    <td>View Only</td>
+  </tr>
+  <tr>
+    <td>CoFinance</td>
+    <td>AI-Powered All-in-One Financial Management Platform</td>
+    <td><a href="https://co-finance.vercel.app/">Live</a></td>
+    <td>View Only</td>
+  </tr>
+  <tr>
+    <td>Luxe Chronos</td>
+    <td>Luxe Chronos is a redesigned and rebuilt landing page for a luxury watches shop.</td>
     <td><a href="https://luxe-chronos.vercel.app/">Live</a></td>
     <td>View Only</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Fyrre-Magazine">Fyrre Magazine</a></td>
-    <td>Fyrre Magazine aims to offer a diverse range of content that includes a variety of magazines, podcasts, and authors. 📔</td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>Modern Magazine Website with React, Vite, and Tailwind CSS</td>
     <td><a href="https://fyrre-magazine-self.vercel.app">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/BOARD">BOARD</a></td>
-    <td> The Board Gaming Platform introduces users to a futuristic gaming experience. 🕹️ </td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>Landing Page for Gaming Platform | Responsive UI with React</td>
     <td><a href="https://board-nine-wheat.vercel.app/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Master">Master</a></td>
-    <td>Welcome to my portfolio, This repository is regularly updated with new projects and enhancements. Be sure to check back for the latest updates.👑</td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>Portfolio Website</td>
     <td><a href="https://master-two-sigma.vercel.app/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Florenza">Florenza</a></td>
-    <td>Florenza, the ultimate destination for all types of flowers and scented candles! We provide a delightful online shopping experience for those looking to send gifts that bloom with love. 🌸</td>
-    <td><strong>HTML, JS</strong></td>
+    <td>Online Flower & Candle E-commerce Platform</td>
     <td><a href="https://Codem-3.github.io/Florenza/">Live</a></td>
     <td>Allowed (with legal terms)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/CLICON">C L I C O N</a></td>
-    <td>CLICON is an eCommerce platform similar to Amazon, allowing users to browse products, add them to their cart, and manage their orders. The platform includes user authentication. 🏬</td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>Modern React eCommerce Web Application</td>
     <td><a href="https://clicon-tau.vercel.app/">Live</a></td>
     <td>Allowed (with legal terms)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/ITI-Movies">New Movie</a></td>
-    <td>Provides an intuitive interface to browse popular movies, view detailed information about each film, and stay updated with the latest releases.🍿 </td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>New Movie – Explore Popular Movies Web App</td>
     <td><a href="https://iti-movies.vercel.app/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Rivo">Rivo</a></td>
-    <td>Discover and Find Your Fashion! Explore our curated collection of stylish clothing and accessories tailored to your unique taste. 🛍️</td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>Fashion eCommerce Landing Page</td>
     <td><a href="https://rivo-one.vercel.app/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/XnO">XnO</a></td>
-    <td>Tic-Tac-Toe game. It features dynamic gameplay with real-time updates, a scoring system, and a winning combination display.⭕✖️</td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>XnO – Interactive Tic-Tac-Toe Game</td>
     <td><a href="https://xn-o.vercel.app/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Done-it">Done-it</a></td>
-    <td>Done-it is a simple and efficient To-Do App designed to help you manage your tasks effectively. ☑️</td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>Task Management App | React, Vite, Context API, Tailwind CSS</td>
     <td><a href="https://todo-one-gold.vercel.app/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/CloneGPT">CloneGPT</a></td>
-    <td>This repository contains a clone of the user interface for ChatGPT, built using React, Vite, and Tailwind CSS. 🤖</td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>This repository contains a clone of the user interface for ChatGPT, built using React, Vite, and Tailwind CSS</td>
     <td><a href="https://Codem-3.github.io/CloneGPT/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Virtual_Project">CareHub</a></td>
-    <td>Revolutionizing Healthcare Through Technology 🌐🚀 ⚠️Updating to a new version with improved features, performance, scalability, and multi-platform support for a better user experience and UI.⚠️</td>
-    <td><strong>MERN</strong></td>
-    <td>Under Development</td>
+    <td>Revolutionizing Healthcare Through Technology</td>
+    <td>Updating to a new version</td>
     <td>View Only</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/MAIZ">MAIZ</a></td>
-    <td>MAIZ is a modern, fully responsive website for a Saudi cuisine restaurant. 🍽️</td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>MAIZ – Saudi Cuisine Restaurant Website</td>
     <td><a href="https://Codem-3.github.io/MAIZ/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/WeatherWise">Weather Wise</a></td>
-    <td>Weather forecasting that displays hourly weather updates, current location, temperature, and weather conditions ☁️</td>
-    <td><strong>JavaScript</strong></td>
+    <td>WeatherWise – Real-Time Weather Forecasting Web App</td>
     <td><a href="https://Codem-3.github.io/WeatherWise/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Egypt-ID">Egypt ID</a></td>
-    <td>Allows users to input their Egyptian national ID number and extract information such as their city, date of birth, and gender. 💳</td>
-    <td><strong>ReactJs(Vite)</strong></td>
+    <td>Allows users to input their Egyptian national ID number and extract information such as their city, date of birth, and gender.</td>
     <td><a href="https://Codem-3.github.io/Egypt-ID/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Portfolio-ITI">Portfolio-ITI</a></td>
     <td>ITI final project portfolio!</td>
-    <td><strong>React JS</strong></td>
     <td><a href="https://Codem-3.github.io/Portfolio-ITI/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/JavaScript-ITI-Task">ToDo List</a></td>
-    <td>Simple ToDo List Built with Vanilla JavaScript 📃</td>
-    <td><strong>JavaScript</strong></td>
+    <td>Simple ToDo List Built with Vanilla JavaScript</td>
     <td><a href="https://Codem-3.github.io/JavaScript-ITI-Task/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Simple-Chess-Game">Simple Chess</a></td>
-    <td>Web Application To Play Chess With AI ♟️🤖</td>
-    <td><strong>Python</strong></td>
+    <td>Web Application To Play Chess With AI</td>
     <td>Soon</td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/RemasterLabs">RemasterLabs</a></td>
-    <td>A collection of 50+ web projects that have been reimagined and remastered. 🕸️</td>
-    <td><strong>HTML, CSS, JavaScript</strong></td>
+    <td>A collection of 50+ web projects that have been reimagined and remastered.</td>
     <td><a href="https://Codem-3.github.io/RemasterLabs/">Live</a></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Screw-Card">Screw Game Card</a></td>
-    <td>Screw Game Points Tracker 🃏</td>
-    <td><strong>HTML</strong></td>
+    <td>Screw Game Points Tracker</td>
     <td><a href="https://Codem-3.github.io/Screw-Card/">Live</a></td>
     <td>Allowed</td>
   </tr>
@@ -289,7 +276,7 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
 <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif">
 <table>
   <tr>
-    <td align='center'><img width="45" alt="about" src="https://github.com/user-attachments/assets/b2f911cf-dbca-4eea-95d0-4c7a90375a70"></td>
+    <td align='center'><img alt="codem" width="40px" src="https://github.com/user-attachments/assets/fd88fd45-8ef1-4ca3-9729-c2eddc6bd9d2" /></td>
     <td colspan="3" align='center'><strong>Mobile App Development Projects</strong></td>
   </tr>
   <tr>
@@ -300,55 +287,55 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Little-Limon">Little Lemon</a></td>
-    <td>Full Professional Project Under Meta's Supervision 🍋🪙</td>
+    <td>Android App Development</td>
     <td><strong>Kotlin</strong></td>
     <td>View Only</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/FitWave">FitWave</a></td>
-    <td>Explore a wide range of workout plans, personalized routines, and health tips designed to help you achieve your fitness goals 💪</td>
+    <td>Kotlin Mobile App – Ultimate Fitness App</td>
     <td><strong>Kotlin</strong></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/BrandStep">BrandStep</a></td>
-    <td>eCommerce app for purchasing the latest and most popular branded shoes and clothing 🛒</td>
+    <td>Kotlin eCommerce App – Fashion & Footwear Shopping</td>
     <td><strong>Kotlin</strong></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/ToDoWiz">ToDoWiz</a></td>
-    <td>MVVM Application for iOS and Android with Compose Multiplatform in Kotlin 📃</td>
+    <td>MVVM Application for iOS and Android with Compose Multiplatform in Kotlin</td>
     <td><strong>Kotlin Multiplatform</strong></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Pizza-Slice">Pizza Slice</a></td>
-    <td>UI Restaurant Menu And Orders App 🍕</td>
+    <td>UI Restaurant Menu And Orders App</td>
     <td><strong>Flutter</strong></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Calculator">Calculator</a></td>
-    <td>Simple Calculator Application Built Using Kotlin 🧮</td>
+    <td>Simple Calculator Application Built Using Kotlin</td>
     <td><strong>Kotlin</strong></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Firebase-Email-Authentication">Firebase Authentication</a></td>
-    <td>Firebase Authentication With Email 🔥</td>
+    <td>Firebase Authentication With Email</td>
     <td><strong>Kotlin</strong></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/JetPack-Compose">Simple Ui</a></td>
-    <td>Jetpack Compose for building Android UIs 💥</td>
+    <td>Jetpack Compose for building Android UIs</td>
     <td><strong>Kotlin</strong></td>
     <td>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Little-Lemon-Menu">Little Lemon Menu</a></td>
-    <td>Implementation For Sorting, Searching, Filtering, Opening Products 🍽️</td>
+    <td>Implementation For Sorting, Searching, Filtering, Opening Products</td>
     <td><strong>Kotlin</strong></td>
     <td>Allowed</td>
   </tr>
@@ -360,7 +347,7 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/LittleLemon-Menu-Editor">LittleLemon Menu Editor</a></td>
-    <td>Uses Room Persistence To Handle Local Storage of Menu Items in SQLite Database 🎈</td>
+    <td>Uses Room Persistence To Handle Local Storage of Menu Items in SQLite Database</td>
     <td><strong>Kotlin</strong></td>
     <td>Allowed</td>
   </tr>
@@ -370,7 +357,7 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
 
 <table>
   <tr>
-    <td align='center'><img width="45" alt="about" src="https://github.com/user-attachments/assets/b7a7d78b-dc10-4910-869e-a24e621c9902"></td>
+    <td align='center'><img alt="codem" width="40px" src="https://github.com/user-attachments/assets/fd88fd45-8ef1-4ca3-9729-c2eddc6bd9d2" /></td>
     <td colspan="2" align='center'><strong>Tools, Extensions, Libraries, and Projects Developed to Enhance Developer Efficiency and Speed Up Workflow</strong></td>
   </tr>
   <tr>
@@ -394,7 +381,7 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
 
 <table>
   <tr>
-    <td align='center'><img width="45" alt="about" src="https://github.com/user-attachments/assets/085d17b4-f964-4fb6-8d9b-2a3628b518d7"></td>
+    <td align='center'><img alt="codem" width="40px" src="https://github.com/user-attachments/assets/fd88fd45-8ef1-4ca3-9729-c2eddc6bd9d2" /></td>
     <td colspan="2" align='center'><strong>Summary of Completed Programming Courses, Fundamentals, and Problem-Solving Skills</strong></td>
   </tr>
   <tr>
@@ -403,118 +390,123 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
     <td><strong>Language</strong></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Codem-3/SCSS">SCSS</a></td>
+    <td>A comprehensive collection of SCSS examples and tutorials to help you master CSS preprocessing with Sass.</td>
+    <td><strong>SCSS</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Codem-3/Python">Python Learning</a></td>
+    <td>Collection of Python tutorials and examples designed to help you master Python programming from basics to advanced concepts.</td>
+    <td><strong>Python</strong></td>
+  </tr> 
+  <tr>
     <td><a href="https://github.com/Codem-3/LeetCode-Problem-Solutions">LeetCode-Problem-Solutions</a></td>
-    <td>A collection of my LeetCode problem solutions. 📃</td>
+    <td>A collection of my LeetCode problem solutions.</td>
     <td><strong>JS & Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Algorithms-DataStructures">Algorithms-DataStructures</a></td>
-    <td>Implement Algorithms and Data Structures. 👨‍💻</td>
+    <td>Implement Algorithms and Data Structures.</td>
     <td><strong>JavaScript</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/React-Native">React-Native</a></td>
-    <td>React Native Course Materials [ META ] 📖</td>
+    <td>React Native Course Materials [ META ]</td>
     <td><strong>React Native</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/React.js">React.js</a></td>
-    <td>React.js Course Materials [ META ] 📖</td>
+    <td>React.js Course Materials [ META ]</td>
     <td><strong>React.js</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/MongoDB">MongoDB</a></td>
-    <td>MongoDB Comprehensive Guide 📖</td>
+    <td>MongoDB Comprehensive Guide</td>
     <td><strong>MongoDB</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/ES6-ITI-Course">ES6-ITI-Course</a></td>
-    <td>ECMAScript Course 📖</td>
+    <td>ECMAScript Course</td>
     <td><strong>ECMAScript</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/JavaScript-ITI-Course">JavaScript-ITI-Course</a></td>
-    <td>Vanilla JS Course 📖</td>
+    <td>Vanilla JS Course</td>
     <td><strong>Vanilla JS</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Kotlin-Coroutines">Kotlin Coroutines</a></td>
-    <td>Kotlin Coroutines Resources 👾</td>
+    <td>Kotlin Coroutines Resources</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Working-With-Data">Working-With-Data</a></td>
-    <td>Being able to fetch data from the network, store data in a database as a table, extract the data for use, present the data 📲</td>
+    <td>Being able to fetch data from the network, store data in a database as a table, extract the data for use, present the data</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/SQL">SQL</a></td>
-    <td>This repository is dedicated to providing comprehensive examples and explanations of SQL commands 💻</td>
+    <td>This repository is dedicated to providing comprehensive examples and explanations of SQL commands</td>
     <td><strong>SQL</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Firebase-Email-Authentication">Firebase Authentication</a></td>
-    <td>Firebase Authentication With Email 🔥</td>
-    <td><strong>Kotlin</strong></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Codem-3/My_Library">My_Library</a></td>
-    <td>Create & Publish First Library Kotlin JVM [ Local - Global ] 💥</td>
+    <td>Firebase Authentication With Email</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Room_Database">Room_Database</a></td>
-    <td>This repository contains an example of how to use Room Database in an Android application 📲</td>
+    <td>This repository contains an example of how to use Room Database in an Android application</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/CreationalPatterns-FactoryPattern">CreationalPatterns-FactoryPattern</a></td>
-    <td>Implementation on Creational Patterns - Factory Pattern 👨‍💻</td>
+    <td>Implementation on Creational Patterns - Factory Pattern</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/CreationalPatterns-BuilderPattern">CreationalPatterns-BuilderPattern</a></td>
-    <td>Implementation on Creational Patterns - Build Pattern 👨‍💻</td>
+    <td>Implementation on Creational Patterns - Build Pattern</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/CreationalPatterns-SingletonPattern">CreationalPatterns-SingletonPattern</a></td>
-    <td>Implementation on Creational Patterns - Singleton Pattern 👨‍💻</td>
+    <td>Implementation on Creational Patterns - Singleton Pattern</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Architecture-Patterns">Architecture-Patterns</a></td>
-    <td>Implementation on MVC | MVB | MVVM in Android 💻</td>
+    <td>Implementation on MVC | MVB | MVVM in Android</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/Vernam">Vernam</a></td>
-    <td>Implementation of Vernam Cipher in Cryptography 1️⃣</td>
+    <td>Implementation of Vernam Cipher in Cryptography</td>
     <td><strong>Python</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/NTI-Web-Designer">WEB Designer</a></td>
-    <td>NTI WEB Designer Materials 📃</td>
+    <td>NTI WEB Designer Materials</td>
     <td><strong>WEB Design</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/API">API</a></td>
-    <td>Handle API's in Android 🔗</td>
+    <td>Handle API's in Android</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/ReactiveX">ReactiveX</a></td>
-    <td>Practice on Reactive Extensions for Async Programming 📲</td>
+    <td>Practice on Reactive Extensions for Async Programming</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/KotlinCourse">KotlinCourse</a></td>
-    <td>Learn and Practice on Kotlin 🥇</td>
+    <td>Learn and Practice on Kotlin</td>
     <td><strong>Kotlin</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Codem-3/computer-science">Open Source Society University</a></td>
-    <td>🎓 Path to a free self-taught education in Computer Science!</td>
+    <td>Path to a free self-taught education in Computer Science!</td>
     <td><strong>CS</strong></td>
   </tr>
 </table>
@@ -534,6 +526,4 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
 -->
 ---
 
-<img width="8334" height="8334" alt="social media posts-03" src="https://github.com/user-attachments/assets/06b35853-fde1-431a-adf1-1458d70c902d" width="100%"/>
-
-<br><br>
+<img alt="social media posts-03" src="https://github.com/user-attachments/assets/06b35853-fde1-431a-adf1-1458d70c902d" width="100%"/>
